@@ -1,0 +1,3 @@
+for (const i = 0; i <= 10; i++) {
+    console.log(`5x${i}=${5*i}`}
+}
